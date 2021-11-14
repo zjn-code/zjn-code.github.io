@@ -1,0 +1,14 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>环境配置 - 标签 - zjn&#39;s blogs</title>
+        <link>https://zjn-code.github.io/tags/%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/</link>
+        <description>环境配置 - 标签 - zjn&#39;s blogs</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 13 Nov 2021 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://zjn-code.github.io/tags/%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE/" rel="self" type="application/rss+xml" /><item>
+    <title>Conda 虚拟环境中使用pip安装包</title>
+    <link>https://zjn-code.github.io/posts/conda-pip-install/</link>
+    <pubDate>Sat, 13 Nov 2021 00:00:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://zjn-code.github.io/posts/conda-pip-install/</guid>
+    <description><![CDATA[搭建conda虚拟环境命令 最近尝试使用conda搭建python虚拟环境，这里记录一些常用的命令。 1 2 3 4 5 6 7 8 9 10 11 12 13 14 # 创建虚拟环境]]></description>
+</item></channel>
+</rss>

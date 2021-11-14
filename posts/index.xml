@@ -3,7 +3,14 @@
         <title>所有文章 - zjn&#39;s blogs</title>
         <link>https://zjn-code.github.io/posts/</link>
         <description>所有文章 | zjn&#39;s blogs</description>
-        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 31 Oct 2021 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://zjn-code.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 13 Nov 2021 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://zjn-code.github.io/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Conda 虚拟环境中使用pip安装包</title>
+    <link>https://zjn-code.github.io/posts/conda-pip-install/</link>
+    <pubDate>Sat, 13 Nov 2021 00:00:00 &#43;0000</pubDate>
+    <author>作者</author>
+    <guid>https://zjn-code.github.io/posts/conda-pip-install/</guid>
+    <description><![CDATA[搭建conda虚拟环境命令 最近尝试使用conda搭建python虚拟环境，这里记录一些常用的命令。 1 2 3 4 5 6 7 8 9 10 11 12 13 14 # 创建虚拟环境]]></description>
+</item><item>
     <title>MPC 实现方案归纳</title>
     <link>https://zjn-code.github.io/posts/mpc-implementation/</link>
     <pubDate>Sun, 31 Oct 2021 00:00:00 &#43;0000</pubDate>
